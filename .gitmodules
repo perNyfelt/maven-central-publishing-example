@@ -1,0 +1,3 @@
+[submodule "maven-deploy-plugin"]
+	path = maven-deploy-plugin
+	url = git@github.com:perNyfelt/maven-deploy-plugin.git

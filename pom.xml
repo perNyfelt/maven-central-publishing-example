@@ -29,6 +29,7 @@
   <packaging>pom</packaging>
 
   <modules>
+    <module>maven-deploy-plugin</module>
     <module>common</module>
     <module>subA</module>
     <module>subB</module>
