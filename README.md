@@ -3,7 +3,7 @@
 This is a multimodule example showing deployment to maven central 
 using the new central publishing rest api.
 
-The maven-deploy-plugin used is a modified fork of the apache maven deploy plugin.
+The maven-deploy-plugin used is a [modified fork](https://github.com/perNyfelt/maven-deploy-plugin/tree/add_central_support) of the apache maven deploy plugin.
 
 The project consist of 
 - an aggregator
