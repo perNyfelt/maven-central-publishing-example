@@ -7,6 +7,11 @@ import multimodule.common.Greeting;
  */
 public class Hi implements Greeting {
 
+  /**
+   * Default constructor.
+   */
+  public Hi() {}
+
   public String greet(String name) {
     return "Hi $name from subB";
   }
